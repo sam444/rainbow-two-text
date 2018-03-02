@@ -1,0 +1,19 @@
+{
+  "name": "rainbowui-two-text",
+  "version": "2.0.7",
+  "description": "RainbowUI Two Text",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/two-text.git"
+  },
+  "dependencies": {
+    "rainbow-foundation-tools": "^2.0.3",
+    "rainbowui-core": "^2.0.0"
+  }
+}
